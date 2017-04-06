@@ -5,8 +5,8 @@ A very small and simple "spring-like" ioc implementation.<br>
 
 ## advantage
 Well, it's small and simple.<br>
-You can use @SimpleBean and @Simple and @SimpleAutowired for application.<br>
-Also, if you're familiar with spring-boot, @SimpleIocBootApplication is also avaliable.
+You can use @SimpleBean and @SimpleComponent and @SimpleAutowired for application.<br>
+Also, if you're familiar with spring-boot, @SimpleIocBootApplication is also available.
 
 ## disadvantages
 Well, it's too simple!<br>
